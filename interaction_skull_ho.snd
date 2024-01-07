@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="0.700">
+        <CSampleFile FileName="interaction_skull_ho.wav"/>
+    </CSample>
+</Sound>

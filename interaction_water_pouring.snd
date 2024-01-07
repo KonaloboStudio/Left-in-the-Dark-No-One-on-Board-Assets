@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_water_pouring.wav" Looped="True"/>
+    </CSample>
+</Sound>

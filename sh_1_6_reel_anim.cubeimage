@@ -1,0 +1,14 @@
+<animatedImage fps="10.00" blendframes="1">
+	<frame source="sh_1_6_k1_new.png" ></frame>
+	<frame source="sh_1_6_k2_new.png" ></frame>
+	<frame source="sh_1_6_k3_new.png" ></frame>
+	<frame source="sh_1_6_k4_new.png" ></frame>
+	<frame source="sh_1_6_k1_new.png" ></frame>
+	<frame source="sh_1_6_k2_new.png" ></frame>
+	<frame source="sh_1_6_k3_new.png" ></frame>
+	<frame source="sh_1_6_k4_new.png" ></frame>
+	<frame source="sh_1_6_k1_new.png" ></frame>
+	<frame source="sh_1_6_k2_new.png" ></frame>
+	<frame source="sh_1_6_k3_new.png" ></frame>
+	<frame source="sh_1_6_k4_new.png" ></frame>
+</animatedImage>

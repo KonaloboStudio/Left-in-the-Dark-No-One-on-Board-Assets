@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.000" Pitch="1.200">
+        <CSampleFile FileName="interaction_open_box.wav"/>
+    </CSample>
+</Sound>

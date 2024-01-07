@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.300">
+        <CSampleFile FileName="interaction_pouring_olive.wav"/>
+    </CSample>
+</Sound>

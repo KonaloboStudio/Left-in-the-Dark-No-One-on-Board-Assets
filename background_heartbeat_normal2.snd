@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="background_heartbeat_normal.wav" FadeInTime="1" FadeOutTime="1" Pitch="0.800" Looped="True"/>
+    </CSample>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.300">
+        <CSampleFile FileName="interaction_code_enter.wav" Looped="True"/>
+    </CSample>
+</Sound>

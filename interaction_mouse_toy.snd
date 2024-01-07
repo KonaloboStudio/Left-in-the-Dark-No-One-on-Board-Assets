@@ -1,0 +1,5 @@
+<Sound>
+    <CSample DelayMin="1" DelayMax="2" Looped="True">
+        <CSampleFile FileName="interaction_mouse_toy.wav"/>
+    </CSample>
+</Sound>

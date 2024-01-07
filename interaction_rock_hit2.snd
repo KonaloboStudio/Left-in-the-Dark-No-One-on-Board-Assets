@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.200">
+        <CSampleFile FileName="interaction_monument_smash.wav"/>
+    </CSample>
+</Sound>

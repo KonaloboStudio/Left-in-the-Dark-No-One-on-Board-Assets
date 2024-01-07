@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_stone_pickup.wav"/>
+    </CSample>
+</Sound>

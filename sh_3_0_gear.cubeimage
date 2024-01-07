@@ -1,0 +1,6 @@
+<animatedImage fps="1.70" blendframes="4">
+	<frame source="3_0_fszoom_furnace_tryb_01.png"></frame>
+	<frame source="3_0_fszoom_furnace_tryb_02.png"></frame>
+	<frame source="3_0_fszoom_furnace_tryb_03.png"></frame>
+	<frame source="3_0_fszoom_furnace_tryb.png"></frame>
+</animatedImage>

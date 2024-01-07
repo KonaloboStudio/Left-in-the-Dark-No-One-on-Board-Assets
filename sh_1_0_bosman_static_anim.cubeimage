@@ -1,0 +1,11 @@
+<animatedImage fps="1.00" blendframes="0">
+	<frame source="sh_1_0_bosman_anim_f1.png" ></frame>
+	<frame source="sh_1_0_bosman_anim_f1.png" ></frame>
+	<frame source="sh_1_0_bosman_anim_f1.png" ></frame>
+	<frame source="sh_1_0_bosman_anim2_f1a.png" ></frame>
+	<frame source="sh_1_0_bosman_anim_f1.png" ></frame>
+	<frame source="sh_1_0_bosman_anim_f1.png" ></frame>
+	<frame source="sh_1_0_bosman_anim_f1.png" ></frame>
+	<frame source="sh_1_0_bosman_anim_f1.png" ></frame>
+	<frame source="sh_1_0_bosman_anim2_f1a.png" ></frame>
+</animatedImage>

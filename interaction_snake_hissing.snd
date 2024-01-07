@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_snake_hissing.wav"/>
+    </CSample>
+</Sound>

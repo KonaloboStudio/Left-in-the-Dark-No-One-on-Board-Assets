@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.800" Pitch="1.300">
+        <CSampleFile FileName="mechanic_journal_paper.wav"/>
+    </CSample>
+</Sound>

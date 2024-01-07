@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_lever_down.wav"/>
+    </CSample>
+</Sound>

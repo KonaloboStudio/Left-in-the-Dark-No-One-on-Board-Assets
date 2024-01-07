@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.950">
+        <CSampleFile FileName="interaction_lighthouse_lamp_on.wav"/>
+    </CSample>
+</Sound>

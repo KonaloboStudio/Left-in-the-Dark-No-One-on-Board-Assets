@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_garden_hose_loop.wav" Looped="True"/>
+    </CSample>
+</Sound>

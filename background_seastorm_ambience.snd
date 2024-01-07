@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="background_seastorm_ambience.wav" Volume="0.700" FadeInTime="1" FadeOutTime="2"/>
+    </CSample>
+</Sound>

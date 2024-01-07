@@ -1,0 +1,4 @@
+<animatedImage fps="2.00" blendframes="1">
+	<frame source="sh_1_6_new_mewa2.png" ></frame>
+	<frame source="sh_1_6_new_mewa3.png" ></frame>
+</animatedImage>

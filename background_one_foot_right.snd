@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.00">
+        <CSampleFile FileName="background_one_foot_right.wav"/>
+    </CSample>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_open_skull.wav"/>
+    </CSample>
+</Sound>

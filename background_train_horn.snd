@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.000">
+        <CSampleFile FileName="background_train_horn.wav"/>
+    </CSample>
+</Sound>

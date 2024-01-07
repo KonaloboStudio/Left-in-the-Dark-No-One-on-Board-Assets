@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.200">
+        <CSampleFile FileName="interaction_insert_book.wav"/>
+    </CSample>
+</Sound>

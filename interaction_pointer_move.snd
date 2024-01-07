@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_pointer_move.wav"/>
+    </CSample>
+</Sound>

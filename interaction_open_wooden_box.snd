@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_open_wooden_box.wav"/>
+    </CSample>
+</Sound>

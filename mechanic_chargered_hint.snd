@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.800">
+        <CSampleFile FileName="mechanic_chargered_hint.wav"/>
+    </CSample>
+</Sound>

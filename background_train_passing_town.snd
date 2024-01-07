@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="background_train_passing.wav" Volume="0.700" Pitch="0.500" Pan="0.000" FadeInTime="5" FadeOutTime="0" Looped="True"/>
+    </CSample>
+</Sound>

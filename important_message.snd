@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="important_message.wav"/>
+    </CSample>
+</Sound>

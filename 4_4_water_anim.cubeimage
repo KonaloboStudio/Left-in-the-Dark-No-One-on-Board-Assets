@@ -1,0 +1,4 @@
+<animatedImage fps="0.70" blendframes="1">
+	<frame source="4_4_ho_skeleton_bg1.png" ></frame>
+	<frame source="4_4_ho_skeleton_bg2.png" ></frame>
+</animatedImage>

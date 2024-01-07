@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.00" Pitch="0.900">
+        <CSampleFile FileName="background_branch_crack_2.wav"/>
+    </CSample>
+</Sound>

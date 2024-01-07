@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.800">
+        <CSampleFile FileName="vo_mayor_intro_dear.wav"/>
+    </CSample>
+</Sound>

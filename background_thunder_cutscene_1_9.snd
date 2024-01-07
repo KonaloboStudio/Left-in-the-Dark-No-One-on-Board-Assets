@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="0.900">
+        <CSampleFile FileName="background_lightning_close.wav"/>
+    </CSample>
+</Sound>

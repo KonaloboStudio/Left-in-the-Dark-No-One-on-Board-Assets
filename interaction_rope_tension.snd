@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_rope_tension.wav"/>
+    </CSample>
+</Sound>

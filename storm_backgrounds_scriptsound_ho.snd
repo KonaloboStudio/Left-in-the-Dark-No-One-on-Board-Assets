@@ -1,0 +1,22 @@
+<Sound>
+	<CRandomContainer>
+    <CSample>
+        <CSampleFile Pitch="1.000" Volume="0.800" Weight="1" FileName="background_thunder_2.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pitch="0.500" Volume="0.600" Weight="1" FileName="background_thunder_2.wav"></CSampleFile>
+    </CSample>
+    <CSample>
+        <CSampleFile Pitch="1.000" Volume="0.800" Weight="1" FileName="background_thunder_far.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pitch="0.700" Volume="0.600" Weight="1" FileName="background_thunder_far.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pitch="1.000" Volume="0.800" Weight="1" FileName="background_lightning_close.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pitch="0.950" Volume="0.800" Weight="1" FileName="background_lightning_2.wav"></CSampleFile>
+    </CSample>
+	</CRandomContainer>
+</Sound>

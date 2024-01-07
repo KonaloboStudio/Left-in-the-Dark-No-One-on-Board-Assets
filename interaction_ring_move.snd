@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.000">
+        <CSampleFile FileName="interaction_ring_move.wav"/>
+    </CSample>
+</Sound>

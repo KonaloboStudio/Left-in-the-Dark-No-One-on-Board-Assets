@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.100">
+        <CSampleFile FileName="interaction_planet_slide.wav"/>
+    </CSample>
+</Sound>

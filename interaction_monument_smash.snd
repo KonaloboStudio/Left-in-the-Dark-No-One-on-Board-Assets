@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_monument_smash.wav"/>
+    </CSample>
+</Sound>

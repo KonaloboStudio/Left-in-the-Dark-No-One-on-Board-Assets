@@ -1,0 +1,13 @@
+<Sound>
+	<CRandomContainer Looped="True" WaitAfterMin="10" WaitAfterMax="20">
+    <CSample>
+        <CSampleFile Pan="0.500" Pitch="1.000" Volume="0.600" Weight="1.2" FadeInTime="3" FadeOutTime="2" FileName="background_wind.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="0.700" Volume="1.000" Weight="0.8" FadeInTime="2" FadeOutTime="2" FileName="background_wind.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.300" Pitch="0.500" Volume="1.000" Weight="0.5" FadeInTime="3" FadeOutTime="2" FileName="background_wind.wav"></CSampleFile>
+    </CSample>
+	</CRandomContainer>
+</Sound>

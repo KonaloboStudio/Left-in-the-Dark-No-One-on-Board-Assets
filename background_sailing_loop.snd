@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.400">
+        <CSampleFile FileName="background_sailing_loop.wav" FadeInTime="1" FadeOutTime="1" Looped="True"/>
+    </CSample>
+</Sound>

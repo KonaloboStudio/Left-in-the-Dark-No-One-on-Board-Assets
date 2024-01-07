@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="boomthing1.wav" Pitch="1.000"/>
+    </CSample>
+</Sound>

@@ -1,0 +1,7 @@
+<loadinfo hd="0">
+	<languages>
+		<lang name="en" packs="Game_en.cub"/>
+		<lang name="pl" packs="Game_pl.cub"/>
+	</languages>
+	<device atlas_fmt="DXT5" clamp43v="0" fontdesc="fonts.cubefont" loc_packages="Game" name="windows" packages="Game" texts="text.xml" video_ext="webm"/>
+</loadinfo>

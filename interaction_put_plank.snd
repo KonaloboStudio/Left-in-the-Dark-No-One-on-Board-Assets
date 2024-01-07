@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_put_plank.wav"/>
+    </CSample>
+</Sound>

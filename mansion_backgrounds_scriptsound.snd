@@ -1,0 +1,23 @@
+<Sound>
+	<CRandomContainer Looped="True" WaitAfterMin="7" WaitAfterMax="20">
+    <CSample>
+        <CSampleFile Pan="1.000" Pitch="0.700" Volume="0.800" Weight="1.2" FileName="background_pier_creak.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="0.700" Volume="0.800" Weight="1.2" FileName="background_wood_creak_2.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.800" Weight="1.2" FileName="background_wood_creak_4.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="0.700" Volume="0.900" Weight="1.2" FileName="background_wood_creak_3.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.200" Volume="0.900" Weight="1.2" FileName="background_pier_creak.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="0.600" Volume="0.900" Weight="1.1" FileName="background_wood_fall.wav"></CSampleFile>
+    </CSample>
+	</CRandomContainer>
+</Sound>
+

@@ -1,0 +1,19 @@
+<Sound>
+	<CRandomContainer Looped="True" DelayMin="5" DelayMax="15" WaitAfterMin="20" WaitAfterMax="35">
+    <CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.400" Weight="1.2" FileName="background_creepy_scream.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.400" Weight="1.2" FileName="background_baby_cry.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.300" Weight="1.2" FileName="background_woman_scream.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.300" Weight="1.2" FileName="background_ghost_scream.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.300" Weight="1.2" FileName="background_ghost_girl_sing.wav"></CSampleFile>
+    </CSample>
+	</CRandomContainer>
+</Sound>

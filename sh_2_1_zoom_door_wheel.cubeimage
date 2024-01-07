@@ -1,0 +1,8 @@
+<animatedImage fps="8.00" blendframes="1">
+	<frame source="sh_2_1_zoom_door_okno_2_f1.png" ></frame>
+	<frame source="sh_2_1_zoom_door_okno_2_f2.png" ></frame>
+	<frame source="sh_2_1_zoom_door_okno_2_f3.png" ></frame>
+	<frame source="sh_2_1_zoom_door_okno_2_f4.png" ></frame>
+	<frame source="sh_2_1_zoom_door_okno_2_f5.png" ></frame>
+
+</animatedImage>

@@ -1,0 +1,33 @@
+<animatedImage fps="2.00" blendframes="1">
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy2.png" ></frame>
+	<frame source="sh_cs_hakowy_hakowy1.png" ></frame>
+	
+</animatedImage>

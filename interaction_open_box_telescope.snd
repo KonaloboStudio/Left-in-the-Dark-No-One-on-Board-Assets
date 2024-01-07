@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.200">
+        <CSampleFile FileName="interaction_open_cage_withcreak.wav"/>
+    </CSample>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.000">
+        <CSampleFile FileName="vo_isabella_stop.wav"/>
+    </CSample>
+</Sound>

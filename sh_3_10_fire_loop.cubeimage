@@ -1,0 +1,10 @@
+<animatedImage fps="0.50" blendframes="1">
+	<frame source="sh_3_10_zoom_fire_fire3_1.png"></frame>
+	<frame source="sh_3_10_zoom_fire_fire3_2.png"></frame>
+	<frame source="sh_3_10_zoom_fire_fire3_1.png"></frame>
+	<frame source="sh_3_10_zoom_fire_fire3_1.png"></frame>
+	<frame source="sh_3_10_zoom_fire_fire3_2.png"></frame>
+	<frame source="sh_3_10_zoom_fire_fire3_2.png"></frame>
+	<frame source="sh_3_10_zoom_fire_fire3_1.png"></frame>
+	<frame source="sh_3_10_zoom_fire_fire3_2.png"></frame>
+</animatedImage>

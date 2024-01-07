@@ -1,0 +1,19 @@
+<Sound>
+	<CRandomContainer Looped="True" WaitAfterMin="2" WaitAfterMax="8">
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" Weight="1.2" FileName="background_wave.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.100" Volume="0.800" Weight="1.2" FileName="background_wave.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.820" Volume="1.000" Weight="1.2" FileName="background_wave.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.950" Volume="0.900" Weight="1.2" FileName="background_wave.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.900" Volume="0.800" Weight="1.2" FileName="background_wave.wav"></CSampleFile>
+    </CSample>
+	</CRandomContainer>
+</Sound>

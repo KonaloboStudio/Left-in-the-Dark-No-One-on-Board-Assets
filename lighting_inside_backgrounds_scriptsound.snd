@@ -1,0 +1,22 @@
+<Sound>
+	<CRandomContainer Looped="True" DelayMin="10" DelayMax="15" WaitAfterMin="12" WaitAfterMax="18">
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" Weight="0.9" FileName="background_lightning_1.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.400" Weight="0.9" FileName="background_lightning_1.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.300" Pitch="0.500" Volume="0.600" Weight="1.2" FileName="background_thunder_2.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.300" Pitch="0.500" Volume="0.600" Weight="1.0" FileName="background_thunder_2.wav"></CSampleFile>
+    </CSample>
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.500" Weight="1" FileName="background_thunder_far.wav"></CSampleFile>
+    </CSample>
+	CSample>
+        <CSampleFile Pan="0.300" Pitch="0.900" Volume="0.600" Weight="1.1" FileName="background_thunder_far.wav"></CSampleFile>
+    </CSample>
+	</CRandomContainer>
+</Sound>

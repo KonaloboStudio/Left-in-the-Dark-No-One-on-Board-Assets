@@ -1,0 +1,58 @@
+<Sound>
+	<CRandomContainer Looped="True" WaitAfterMin="2" WaitAfterMax="10">
+    <CSample>
+        <CSampleFile Pan="0.500" Pitch="0.600" Volume="0.800" Weight="1.2" FileName="background_wood_creak_1.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" Weight="1.2" FileName="background_wood_creak_1.wav"></CSampleFile>
+    </CSample>
+    <CSample>
+        <CSampleFile Pan="0.800" Pitch="0.600" Volume="0.600" Weight="1" FileName="background_wood_creak_4.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.800" Pitch="1.000" Volume="1.000" Weight="1" FileName="background_wood_creak_4.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.800" Pitch="1.000" Volume="0.800" Weight="1" FileName="background_wood_creak_2.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.800" Pitch="1.000" Volume="0.800" Weight="1" FileName="background_wood_creak_3.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.500" Pitch="0.600" Volume="0.800" Weight="1" FileName="background_wood_creak_3.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.800" Weight="1" FileName="background_wood_creak_2.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.300" Weight="0.1" FileName="background_bottle_break.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="1.000" Pitch="1.000" Volume="0.100" Weight="0.2" FileName="background_bottle_break.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.200" Pitch="0.500" Volume="0.700" Weight="1.3" FileName="background_pier_creak.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.200" Weight="1" FileName="background_seagull.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.200" Weight="0.6" FileName="background_seagull.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.200" Weight="0.6" FileName="background_seagulls.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.200" Weight="0.6" FileName="background_rope_tension.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.500" Volume="0.200" Weight="0.9" FileName="background_rope_tension.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.600" Weight="1.2" FileName="background_wood_fall_2.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.500" Volume="0.600" Weight="1.2" FileName="background_wood_fall.wav"></CSampleFile>
+    </CSample>
+	</CRandomContainer>
+</Sound>

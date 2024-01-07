@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.100">
+        <CSampleFile FileName="interaction_open_heavy_metal_gate.wav"/>
+    </CSample>
+</Sound>

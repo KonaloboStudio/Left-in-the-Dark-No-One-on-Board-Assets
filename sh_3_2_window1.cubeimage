@@ -1,0 +1,16 @@
+<animatedImage fps="0.70" blendframes="1">
+	<frame source="sh_3_2_manor_house_window_a_amkniete.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a1.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a2.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a3.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a4.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a5.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a6.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a_otwarte.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a6.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a5.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a4.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a3.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a2.png" ></frame>
+	<frame source="sh_3_2_manor_house_window_a1.png" ></frame>
+</animatedImage>

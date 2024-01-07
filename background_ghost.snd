@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.000" Pan="1.000" Volume="1.000">
+        <CSampleFile FileName="background_ghost.wav" FadeInTime="0" FadeOutTime="1"/>
+    </CSample>
+</Sound>

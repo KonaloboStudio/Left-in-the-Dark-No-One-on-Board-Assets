@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_fireplace_looped.wav" FadeInTime="1" FadeOutTime="0" Looped="True"/>
+    </CSample>
+</Sound>

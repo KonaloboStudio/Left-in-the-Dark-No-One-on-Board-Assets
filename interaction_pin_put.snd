@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="0.600">
+        <CSampleFile FileName="interaction_clock_door_open.wav"/>
+    </CSample>
+</Sound>

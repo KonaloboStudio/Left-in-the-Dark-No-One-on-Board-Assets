@@ -1,0 +1,10 @@
+<animatedImage fps="3.70" blendframes="2">
+	<frame source="3_0_fszoom_furnace_smoke_l1.png"></frame>
+	<frame source="3_0_fszoom_furnace_smokel2.png"></frame>
+	<frame source="3_0_fszoom_furnace_smoke_l1.png"></frame>
+	<frame source="3_0_fszoom_furnace_smokel2.png"></frame>
+	<frame source="3_0_fszoom_furnace_smoke_l1.png"></frame>
+	<frame source="3_0_fszoom_furnace_smokel2.png"></frame>
+	<frame source="3_0_fszoom_furnace_smoke_l1.png"></frame>
+	<frame source="3_0_fszoom_furnace_smokel2.png"></frame>
+</animatedImage>

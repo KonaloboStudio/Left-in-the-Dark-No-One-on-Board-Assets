@@ -1,0 +1,49 @@
+<fontscript>
+	<font gensize="10" name="Bold_10" size="10" source="thryomanes-bold.ttf"/>
+	<font gensize="11" name="Bold_11" size="11" source="thryomanes-bold.ttf"/>
+	<font gensize="15" name="Bold_15" size="15" source="thryomanes-bold.ttf"/>
+	<font gensize="18" name="Bold_18" size="18" source="thryomanes-bold.ttf"/>
+	<font gensize="20" name="Bold_20" size="20" source="thryomanes-bold.ttf"/>
+	<font gensize="27" name="Bold_27" size="27" source="thryomanes-bold.ttf"/>
+	<font gensize="30" name="Bold_30" size="30" source="thryomanes-bold.ttf"/>
+	<font gensize="40" name="Bold_40" size="40" source="thryomanes-bold.ttf"/>
+	<font gensize="50" name="Bold_50" size="50" source="thryomanes-bold.ttf"/>
+	<font gensize="18" name="Cutscene" size="18" source="thryn.ttf"/>
+	<font gensize="10" name="Default_10" size="10" source="thryn.ttf"/>
+	<font gensize="15" name="Default_15" size="15" source="thryn.ttf"/>
+	<font gensize="18" name="Default_18" size="18" source="thryn.ttf"/>
+	<font gensize="20" name="Default_20" size="20" source="thryn.ttf"/>
+	<font gensize="25" name="Default_25" size="25" source="thryn.ttf"/>
+	<font gensize="30" name="Default_30" size="30" source="thryn.ttf"/>
+	<font gensize="40" name="Default_40" size="40" source="thryn.ttf"/>
+	<font gensize="50" name="Default_50" size="50" source="thryn.ttf"/>
+	<font gensize="7" name="Default_7" size="7" source="thryn.ttf"/>
+	<font gensize="15" name="Diary" size="15" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="18" name="Diary18" size="18" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="14" name="Diary_14" size="14" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="16" name="Diary_16" size="16" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="13" name="Diary_mini" size="13" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="22" name="DiaryBig" size="22" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="26" name="DiaryBigger" size="26" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="32" name="DiaryEnormous" size="32" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="20" name="DiaryTitle" size="20" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="96" name="DiaryYouHaveToBeKiddingMe" size="96" source="PlayfairDisplay-Italic.ttf"/>
+	<font gensize="12" name="Italic_12" size="12" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="15" name="Italic_15" size="15" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="25" name="italic_1511" size="25" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="30" name="Italic_15111" size="30" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="17" name="Italic_17" size="17" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="20" name="Italic_20" size="20" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="25" name="Italic_25" size="25" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="30" name="Italic_30" size="30" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="45" name="Italic_301" size="45" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="36" name="Italic_36" size="36" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="40" name="Italic_40" size="40" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="50" name="Italic_50" size="50" source="thryomanes-bold-italic.ttf"/>
+	<font gensize="18" name="Minor" size="18" source="thryn.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="16" name="Pac_dialog_text" size="16" source="PT_Sans-Web-Regular.ttf"/>
+	<language name="en"/>
+</fontscript>

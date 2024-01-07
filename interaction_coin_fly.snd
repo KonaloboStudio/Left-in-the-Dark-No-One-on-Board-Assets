@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="1.100">
+        <CSampleFile FileName="interaction_piggybank.wav"/>
+    </CSample>
+</Sound>

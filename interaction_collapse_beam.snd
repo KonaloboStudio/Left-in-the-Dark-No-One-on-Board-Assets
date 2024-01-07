@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_collapse_beam.wav"/>
+    </CSample>
+</Sound>

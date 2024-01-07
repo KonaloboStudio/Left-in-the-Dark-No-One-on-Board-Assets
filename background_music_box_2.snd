@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.00">
+        <CSampleFile FileName="background_music_box_2.wav" Looped="True"/>
+    </CSample>
+</Sound>

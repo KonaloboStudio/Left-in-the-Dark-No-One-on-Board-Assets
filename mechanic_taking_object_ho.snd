@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.000">
+        <CSampleFile FileName="mechanic_taking_object_ho.wav"/>
+    </CSample>
+</Sound>

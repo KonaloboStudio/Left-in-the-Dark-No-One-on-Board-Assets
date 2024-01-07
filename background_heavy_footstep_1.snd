@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="0.700">
+        <CSampleFile FileName="background_heavy_footstep_1.wav"/>
+    </CSample>
+</Sound>

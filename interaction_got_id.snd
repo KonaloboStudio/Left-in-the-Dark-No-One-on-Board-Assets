@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.800" Pitch="0.850">
+        <CSampleFile FileName="mechanic_page_turn.wav"/>
+    </CSample>
+</Sound>

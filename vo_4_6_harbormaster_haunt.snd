@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.800">
+        <CSampleFile FileName="vo_4_6_harbormaster_haunt.wav"/>
+    </CSample>
+</Sound>

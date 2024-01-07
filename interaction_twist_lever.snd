@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.700">
+        <CSampleFile FileName="interaction_twist_lever.wav"/>
+    </CSample>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="background_cutscene_fire.wav" FadeInTime="1" FadeOutTime="1" Looped="True"/>
+    </CSample>
+</Sound>

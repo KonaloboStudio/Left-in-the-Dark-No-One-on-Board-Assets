@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="3.000">
+        <CSampleFile FileName="interaction_padlock_clang.wav"/>
+    </CSample>
+</Sound>

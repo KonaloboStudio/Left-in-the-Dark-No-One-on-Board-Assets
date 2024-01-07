@@ -1,0 +1,6 @@
+<animatedImage fps="4.00" blendframes="0">
+	<frame source="sh_1_6_zoom_drzwi_k4.png" ></frame>
+	<frame source="sh_1_6_zoom_drzwi_k3.png" ></frame>
+	<frame source="sh_1_6_zoom_drzwi_k2.png" ></frame>
+	<frame source="sh_1_6_zoom_drzwi_k1.png" ></frame>
+</animatedImage>

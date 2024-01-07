@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.000">
+        <CSampleFile FileName="background_ghost_girl_crying.wav"/>
+    </CSample>
+</Sound>

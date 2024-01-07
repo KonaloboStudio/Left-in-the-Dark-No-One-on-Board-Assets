@@ -1,0 +1,5 @@
+<animatedImage fps="5.00" blendframes="0">
+	<frame source="seagul_1_reflect.png"></frame>
+	<frame source="seagul_2_reflect.png"></frame>
+	<frame source="seagul_3_reflect.png"></frame>
+</animatedImage>

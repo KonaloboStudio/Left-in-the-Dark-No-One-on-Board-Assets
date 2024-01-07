@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="0.800">
+        <CSampleFile FileName="vo_1_0_harbormaster_inch_by_inch.wav"/>
+    </CSample>
+</Sound>

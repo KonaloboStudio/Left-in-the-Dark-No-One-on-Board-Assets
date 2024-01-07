@@ -1,0 +1,6 @@
+<animatedImage fps="5.70" blendframes="0">
+	<frame source="sh_1_7_zoom_zamek_key_04.png"></frame>
+	<frame source="sh_1_7_zoom_zamek_key_03.png"></frame>
+	<frame source="sh_1_7_zoom_zamek_key_02.png"></frame>
+	<frame source="sh_1_7_zoom_zamek_key_01.png"></frame>
+</animatedImage>

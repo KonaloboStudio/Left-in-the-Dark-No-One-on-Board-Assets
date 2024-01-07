@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.00" Pitch="0.900">
+        <CSampleFile FileName="background_branches_snapping_2.wav"/>
+    </CSample>
+</Sound>

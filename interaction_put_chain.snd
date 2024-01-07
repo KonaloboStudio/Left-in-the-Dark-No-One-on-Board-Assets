@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="0.800">
+        <CSampleFile FileName="interaction_connect_shackle.wav"/>
+    </CSample>
+</Sound>

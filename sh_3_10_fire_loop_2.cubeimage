@@ -1,0 +1,20 @@
+<animatedImage fps="0.50" blendframes="1">
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire4.png"></frame>
+	<frame source="sh_3_10_przystan_fire4.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire4.png"></frame>
+	<frame source="sh_3_10_przystan_fire4.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire4.png"></frame>
+	<frame source="sh_3_10_przystan_fire4.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire4.png"></frame>
+	<frame source="sh_3_10_przystan_fire4.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+	<frame source="sh_3_10_przystan_fire1.png"></frame>
+</animatedImage>

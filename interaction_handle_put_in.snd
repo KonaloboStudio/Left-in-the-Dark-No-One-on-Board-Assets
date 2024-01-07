@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_handle_put_in.wav" Looped="True"/>
+    </CSample>
+</Sound>

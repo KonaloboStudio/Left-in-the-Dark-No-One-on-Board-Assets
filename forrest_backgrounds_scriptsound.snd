@@ -1,0 +1,46 @@
+<Sound>
+	<CRandomContainer Looped="True" WaitAfterMin="5" WaitAfterMax="15">
+    <CSample>
+        <CSampleFile Pan="0.500" Pitch="0.600" Volume="0.800" Weight="1.2" FileName="background_boar.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" Weight="1.2" FileName="background_boar_2.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" Weight="1.2" FileName="backround_wolf_howl.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.400" Weight="1.2" FileName="backround_wolf_howl.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.300" Weight="1.2" FileName="background_boar_2.wav"></CSampleFile>
+    </CSample>
+	 <CSample>
+        <CSampleFile Pan="0.500" Pitch="0.600" Volume="0.400" Weight="1.2" FileName="background_boar.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.500" Pitch="0.900" Volume="0.400" Weight="1.2" FileName="background_owl.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.500" Pitch="1.000" Volume="0.900" Weight="1.2" FileName="background_owl.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.300" Pitch="0.400" Volume="0.300" Weight="1.2" FileName="mechanic_footsteps_soft.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" Weight="1.2" FileName="background_birds_1.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" Weight="1.2" FileName="background_birds_3.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" Weight="1.2" FileName="background_birds_4.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" Weight="1.2" FileName="background_birds_5.wav"></CSampleFile>
+    </CSample>
+	<CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" Weight="1.2" FileName="background_birds_6.wav"></CSampleFile>
+    </CSample>
+	</CRandomContainer>
+</Sound>

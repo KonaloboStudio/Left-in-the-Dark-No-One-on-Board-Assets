@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="2.000">
+        <CSampleFile FileName="background_forest_ambience_2.wav"/>
+    </CSample>
+</Sound>

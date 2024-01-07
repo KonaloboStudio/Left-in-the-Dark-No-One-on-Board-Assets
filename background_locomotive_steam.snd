@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Volume="1.000" Volume="0.600">
+        <CSampleFile FileName="background_locomotive_steam.wav"/>
+    </CSample>
+</Sound>

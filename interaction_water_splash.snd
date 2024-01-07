@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_water_splash.wav"/>
+    </CSample>
+</Sound>

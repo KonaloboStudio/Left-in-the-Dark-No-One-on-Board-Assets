@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pitch="0.700">
+        <CSampleFile FileName="interaction_cleaning_brush.wav"/>
+    </CSample>
+</Sound>

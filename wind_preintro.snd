@@ -1,0 +1,7 @@
+<Sound>
+	<CSequenceContainer>
+    <CSample>
+        <CSampleFile Volume="0.300" FadeOutTime="2" Looped="True" FileName="background_wind.wav"></CSampleFile>
+    </CSample>
+	</CSequenceContainer>
+</Sound>

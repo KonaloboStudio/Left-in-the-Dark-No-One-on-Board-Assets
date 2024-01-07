@@ -1,0 +1,5 @@
+<Sound>
+    <CSample>
+        <CSampleFile FileName="interaction_handle_push_open.wav"/>
+    </CSample>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound>
+    <CSample Pan="0.000" Pitch="0.600" Volumie="1.000">
+        <CSampleFile FileName="background_rope_tension.wav"/>
+    </CSample>
+</Sound>
